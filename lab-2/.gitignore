@@ -1,0 +1,7 @@
+configs
+program/__pycache__
+
+# Entorno virtual de Python
+.venv/
+venv/
+env/
